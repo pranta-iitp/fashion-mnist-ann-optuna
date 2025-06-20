@@ -56,14 +56,6 @@ The dataset is split into 7 CSV files hosted on GitHub:
    pip install -r requirements.txt
    ```
 
-3. **Run the notebook:**
-
-   Open in Jupyter Notebook or Google Colab:
-
-   * [Google Colab Link](https://colab.research.google.com/drive/1hmR-0BZGaLoxSWeIJqYDymPssqRI5ysJ)
-
----
-
 ## 🛠 Requirements
 
 * Python 3.8+
