@@ -1,6 +1,4 @@
-Here's a complete `README.md` content for your project in proper Markdown syntax:
 
-````markdown
 # Fashion MNIST ANN with PyTorch & Optuna
 
 This project demonstrates how to build, train, and optimize an Artificial Neural Network (ANN) to classify clothing images from the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) using PyTorch. The model's hyperparameters are tuned using Optuna.
