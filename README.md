@@ -1,6 +1,4 @@
-Here's a complete `README.md` content for your project in proper Markdown syntax:
 
-````markdown
 # Fashion MNIST ANN with PyTorch & Optuna
 
 This project demonstrates how to build, train, and optimize an Artificial Neural Network (ANN) to classify clothing images from the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) using PyTorch. The model's hyperparameters are tuned using Optuna.
@@ -46,9 +44,9 @@ The dataset is split into 7 CSV files hosted on GitHub:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fashion-mnist-ann-optuna.git
+   git clone https://github.com/pranta-iitp/fashion-mnist-ann-optuna.git
    cd fashion-mnist-ann-optuna
-````
+   ```
 
 2. **Set up environment:**
 
@@ -57,14 +55,6 @@ The dataset is split into 7 CSV files hosted on GitHub:
    ```bash
    pip install -r requirements.txt
    ```
-
-3. **Run the notebook:**
-
-   Open in Jupyter Notebook or Google Colab:
-
-   * [Google Colab Link](https://colab.research.google.com/drive/1hmR-0BZGaLoxSWeIJqYDymPssqRI5ysJ)
-
----
 
 ## 🛠 Requirements
 
