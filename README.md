@@ -44,9 +44,9 @@ The dataset is split into 7 CSV files hosted on GitHub:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fashion-mnist-ann-optuna.git
+   git clone https://github.com/pranta-iitp/fashion-mnist-ann-optuna.git
    cd fashion-mnist-ann-optuna
-````
+   ```
 
 2. **Set up environment:**
 
